@@ -9,10 +9,6 @@
             "enabled": false
           },
           {
-            "name": "blobfuse-flexvolume",
-            "enabled": false
-          },
-          {
             "name": "smb-flexvolume",
             "enabled": false
           },
